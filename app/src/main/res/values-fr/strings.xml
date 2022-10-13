@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Mon Application</string>
+    <string name="first_name">Prénom</string>
+    <string name="last_name">Nom</string>
+    <string name="age">Âge</string>
+    <string name="competences">Compétences</string>
+    <string name="telephone">Télepone</string>
+    <string name="validate">Valider</string>
+    <string name="confirm">Confirmer</string>
+    <string name="cancel">Annuler</string>
+    <string name="validate_msg">Est-ce que vous êtes sûr de valider?</string>
+    <string name="ok">OK</string>
+    <string name="ret">Retour</string>
+    <string name="call">Appeler</string>
+</resources>

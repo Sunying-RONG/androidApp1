@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="first_name">First name</string>
+    <string name="last_name">Last name</string>
+    <string name="age">Age</string>
+    <string name="competences">Competences</string>
+    <string name="telephone">Telephone</string>
+    <string name="validate">Validate</string>
+    <string name="confirm">Confirm</string>
+    <string name="cancel">Cancel</string>
+    <string name="validate_msg">Are you sure to validate?</string>
+    <string name="ok">OK</string>
+    <string name="ret">Return</string>
+    <string name="call">Call</string>
+</resources>
